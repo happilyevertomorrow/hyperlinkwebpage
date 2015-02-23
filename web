@@ -1,0 +1,36 @@
+
+<html>
+<head><title>Hyperlinks</title>
+</head>
+
+<body>
+<h1><p style="font-family:Harrington">Joanna Riascos</h1>
+</body>
+</html>
+
+
+<body style="font-size:18pt;color:white;background-color:purple">
+<span id="top"style="font-size:25pt">Which link whould you like to see?</span>
+<p><a href="#humpty Dumpty"><p style="font-weight:bold;text-decoration:underline">Humpty Dumpty</a></p>
+<p><a href="#the Kooks"><p style="font-weight:bold">The Kooks</a></p>
+</p>
+<p><a href="#http://iquotesylviaplath.tumblr.com/"><p style="font-weight:bold">Tumblr</a></p>
+<p><a href="http://www.kate-moss.us/"><p style="font-weight:bold">Kate Moss</a></p>
+<a href="mailto:jriascos@mail.saintpeters.edu">
+Comments?</a>
+<hr />
+<p id="Humpty Dumpty">
+<img src="http://octinytots.files.wordpress.com/2012/03/humptydumpty.jpg?w=291&h=378"alt="Humpty Dumpty"/>
+                      <a href="#top">top</a><br />Humpty Dumpty</p>
+<span style="font-size:20;color:orange;font-family:Helvetica,sans-serif">Hum<span style="font-weight:bold">p</span>ty Dumpty sat on a wall.Humpty Dumpty<span style="text-decoration:underline">had</span> a great fall.All the king's horses and all the kings men.Cannot put Humpty Dumpty together again.</span>
+<p id="the Kooks">
+<img src="http://sheblogsaboutmusic.files.wordpress.com/2011/09/the-kooks2.jpg"alt="The Kooks"/>
+                      <a href="#bottom">bottom</a><br />The Kooks</p>  
+<span style="font-size:20;color:aqua;font-family:Helvetica,sans-serif">The Koo<span style="font-weight:bold"ks</span> are an<span style"text-decoration:underline">English</span>Britpop band formed in Brighton,East Sussex, in 2004.The band was formed by Luke Pritchard (vocals/guitar), Hugh Harris (lead guitar),Paul Garred (drums), and Max Rafferty (bass guitar) .</p>                                   
+<hr />
+<img src="Humpty_dumpty_2.gif"alt="Humpty Dumpty"/><br />
+A <span style="font-weight:bold">clumsy cartoon</span></p>
+<a href="#top">Back to top of page</a>
+</body>
+</html>
+</span>
